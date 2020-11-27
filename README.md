@@ -1,3 +1,3 @@
 # git
 
-shuusei ok
+shuusei okok
